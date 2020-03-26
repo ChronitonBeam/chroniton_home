@@ -2,6 +2,7 @@
 <head>
   <title>Chroniton</title>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <style>
@@ -13,6 +14,14 @@
     background: -webkit-linear-gradient(to left, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #B06AB3, #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: 300% 300%;
+    font-family: Montserrat !important;
+  }
+  button:focus {
+      border: none;
+      outline: none;
+  }
+  .black_seethru {
+    background-color: rgba(0,0,0, 0.8);
   }
   h1,h2,h3,h4,h5 {
     font-family: Montserrat;
@@ -32,12 +41,21 @@
       50%{background-position:100% 50%}
       100%{background-position:0% 50%}
 }
-
 </style>
-<body style="font-family: Montserrat !important;" class="w3-text-white">
+<body class="w3-text-white">
   <br>
-  <div class="w3-display-middle w3-center">
-    <a class="w3-button w3-hover-none w3-border w3-border-white" href="https://mangadex.org/group/11509/chroniton"><h1 class="w3-wide w3-text-white">&nbsp;「Chroniton」&nbsp;</h1></a>
-    <p>"Gakumon!" Chapter 5 typesetting is complete! Hopeful for release in a few hours.</p>
+  <div id="main" class="w3-display-middle w3-center">
+    <a style="display:block;" class="w3-button w3-hover-none w3-border w3-border-white" href="https://mangadex.org/group/11509/chroniton"><h1 class="w3-wide w3-text-white">&nbsp;「Chroniton」&nbsp;</h1></a>
+    <div style="margin-top: 1em;" class="w3-bar-block w3-center w3-border w3-border-white">
+      <div class="w3-padding">
+        <p><i class="fa fa-book"></i> Gakumon Chapter 5</p>
+        <div class="w3-margin w3-border w3-border-white">
+          <div class="w3-blue" style="height:24px;width:95%"><small>95%</small></div>
+        </div>
+      </div>
+    </div>
+    <div style="margin-top: 1em;" class=" w3-padding w3-bar-block w3-center w3-border w3-border-white">
+      <p>Email: <b>chronitonbeam@gmail.com</b></p>
+    </div>
   </div>
 </body>
