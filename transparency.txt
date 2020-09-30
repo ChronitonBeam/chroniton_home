@@ -1,0 +1,74 @@
+Regarding machine translation
+
+Please let me make this clear first.
+
+** THERE IS NO JAPANESE THAT GOES UNCHECKED WITHOUT A NATIVE SPEAKER. **
+
+There is a two pass system used in order to speed up the translation process.
+It is very difficult to maintain quick translation with someone working for no pay.
+These people have limited time and need to do other things. This system relieves a majority of translating work.
+Furthermore, it results in faster translation times.
+
+FIRST PASS (PASS 1) TRANSLATION
+
+The first pass is machine translation and dictionary services.
+A human, likely not Japanese-speaking, but proficient in English, creates a "translation outline".
+This outline is very simple; Japanese on one line, the approximate English translation next to it.
+This first pass is then prioritized with a translation accuracy score.
+This score is on a scale of Low, Medium and High.
+For instance, if a translation seems OK to the first-pass translator, it is marked as Low.
+However, if the first-pass translator fails to understand something, it is marked as Medium or High.
+When the first pass translation is complete, this Low level translations are typeset. This is not the final typeset.
+
+SECOND PASS (PASS 2) TRANSLATION
+
+The second pass is a check by a proficient Japanese translator.
+Rather than taking the load of translating every single line, they can check the translations done by the first pass translator.
+This saves quite a lot of time.
+Once the second pass translator completes checking all of the translations, the edited translations will be typeset.
+
+WHY 2-PASS?
+
+1st pass "Low" priority translations are generally correct and are quick to check.
+
+Data from Gakumon Ch. 4 shows MTL on the "Low" level was corrected a minimal amount of times.
+
+1st pass "Medium" levels were generally correct, but sometimes had an alternative that may have been better.
+
+1st pass "High" levels were usually completely rewritten.
+
+It took a total of about 1 hour for the second pass translation.
+This system worked pretty well.
+A brunt of the monotonous work was done by the first-pass TL, giving the second-pass less work to do.
+
+
+FINAL WORDS
+
+Translators are humans, and Chroniton doesn't have a dollar to pay them. This system takes much of the load off of the translator.
+Checking is faster than translating, and this system works.
+Everything is checked quickly and accurately. Machine translation is NOT USED AS THE FINAL PRODUCT. It is used only as an aid.
+
+TL;DR
+First pass translation: MTL, dictionary, used to lighten the load for pass 2
+The first pass translation "low" priority translations are typeset to save time- this is not final
+Second pass translation: Native Japanese speaker checks the first pass translation in order of priority
+The second pass translation's fixes are typeset- rechecked, then published
+Result: translation time is cut down significantly, and a chapter can be churned out by two people in a few hours
+
+POSTSCRIPT
+
+Please let me know if you have problems with this or if it can be improved.
+I absolutely don't like using MTL; but I want to do what I can to help an unpaid translator.
+These translators are doing a great thing, and I only want to help them out. Please don't get me wrong.
+I absolutely will NOT publish a manga with MTL only. That's against everything I want to do.
+The only thing I want are quick and high quality translations.
+
+
+Regarding Gakumon Chapter 5 and further
+
+
+This is my fault for not getting this out on time. I was lazy and my second pass translator stopped emailing me.
+I just gave up at that point and focused harder on my present paid occupation.
+I feel guilty for doing one chapter when I said I'd do the next, so I'm trying my best to get the next one out now.
+I'm very sorry. Please bookmark chroniton.org for further updates and perhaps a schedule.
+
